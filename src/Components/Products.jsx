@@ -4,7 +4,7 @@ import Amanda from "../assets/amanda.jpg";
 import Marco from "../assets/marco.jpg";
 
 const products = [
-  { id: 1, name: "Aliso", price: "$299", img: Alisio },
+  { id: 1, name: "Alisio", price: "$299", img: Alisio },
   { id: 2, name: "Amanda", price: "$99", img: Amanda },
   { id: 3, name: "Marco", price: "$399", img: Marco },
 ];
