@@ -1,7 +1,7 @@
 //import React from "react";
-import Alisio from "../assets/amanda.jpg";
-import Amanda from "../assets/amanda.jpg";  
-import Marco from "../assets/marco.jpg";
+import Alisio from "../assets/Alisio.jpg";
+import Amanda from "../assets/Amanda.jpg";  
+import Marco from "../assets/Marco.jpg";
 
 const products = [
   { id: 1, name: "Alisio", price: "$299", img: Alisio },
