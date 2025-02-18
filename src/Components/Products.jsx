@@ -1,5 +1,5 @@
 //import React from "react";
-import Alisio from "../assets/alisio.jpg";
+import Alisio from "../assets/amanda.jpg";
 import Amanda from "../assets/amanda.jpg";  
 import Marco from "../assets/marco.jpg";
 
