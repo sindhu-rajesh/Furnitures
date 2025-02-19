@@ -14,7 +14,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="py-16 bg-[url('./assets/contactimage.jpg')] bg-cover bg-center">
+    <section id="contact" className="py-16 bg-[url('')] bg-cover bg-center">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-6">Get in Touch</h2>
         <p className="text-white-600 text-center mb-8">Have a question or want to collaborate? Reach out to me below.</p>
