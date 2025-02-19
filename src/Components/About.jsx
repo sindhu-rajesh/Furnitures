@@ -2,7 +2,7 @@
 
 const About = () => {
   return (
-    <section id="about" className="py-16 bg-slate-100">
+    <section id="about" className="py-16 bg-gray-50">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-6">About Us</h2>
         <p className="text-slate-600 text-center mb-8">
@@ -12,7 +12,7 @@ const About = () => {
 
         <div className="grid md:grid-cols-2 gap-6 items-center">
           <img
-            src="/src/assets/Decon-Concept-Furniture.jpg"
+            src="./src/assets/Decon-Concept-Furniture.jpg"
             alt="About Concept Furnitures"
             className="rounded-lg shadow-lg"
           />
@@ -32,7 +32,6 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>
-  );};
+    </section>  );};
 
 export default About;
