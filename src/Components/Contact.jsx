@@ -14,12 +14,12 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="py-16 bg-[url('/images/contact-bg-hd.jpg')] bg-cover bg-center">
+    <section id="contact" className="py-16 bg-[url('./assets/contactimage.jpg')] bg-cover bg-center">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-6">Get in Touch</h2>
-        <p className="text-gray-600 text-center mb-8">Have a question or want to collaborate? Reach out to me below.</p>
+        <p className="text-white-600 text-center mb-8">Have a question or want to collaborate? Reach out to me below.</p>
 
-        <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-lg">
+        <form onSubmit={handleSubmit} className="bg-transparent p-6 rounded-lg shadow-lg">
           <div className="mb-4">
             <label className="block text-gray-700 font-semibold">Full Name</label>
             <input
